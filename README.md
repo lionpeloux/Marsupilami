@@ -2,6 +2,13 @@
 
 rhino & grasshopper set of tools for dynamic relaxation analysis
 
-##Authors
+##Contributors
 
 Lionel du Peloux
+
+##ToDo
+
+- closed beam
+- presstress (N or %L)
+- applied displacement
+- fabric element
