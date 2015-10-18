@@ -6,6 +6,10 @@ rhino & grasshopper set of tools for dynamic relaxation analysis
 
 Lionel du Peloux
 
+##Doc
+
+The latest version of the doc sites here : http://marsupilami.readthedocs.org/en/latest/
+
 ##ToDo
 
 - closed beam
