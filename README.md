@@ -8,7 +8,9 @@ Lionel du Peloux
 
 ##Doc
 
-The latest version of the doc sites here : http://marsupilami.readthedocs.org/en/latest/
+The latest version of the doc sites here : http://marsupilami.readthedocs.org/en/latest/  
+[reST help](<http://openalea.gforge.inria.fr/doc/openalea/doc/_build/html/source/sphinx/rest_syntax.html>)
+
 
 ##ToDo
 
