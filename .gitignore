@@ -181,3 +181,9 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+doc/manual/_virtualenv
+doc/manual/_doxygen/html
+doc/manual/_doxygen/latex
+doc/manual/_doxygen/xml
+doc/manual/_doxygen
+doc/manual/_build
