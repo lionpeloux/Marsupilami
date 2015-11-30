@@ -20,3 +20,4 @@ The latest version of the doc sites here : http://marsupilami.readthedocs.org/en
 - fabric element
 
 push https 2
+test ssh with Desktop
