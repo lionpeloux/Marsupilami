@@ -22,8 +22,20 @@ Positionnement :
 
 The main documentation for the site is organized into a couple sections:
 
+
+* :ref:`arch-doc`
 * :ref:`user-doc`
 * :ref:`developer-doc`
+
+.. _arch-doc:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Architecture
+
+   arch_overview.rst
+   arch_element.rst
+   arch_constraint.rst
 
 .. _user-doc:
 
@@ -31,9 +43,9 @@ The main documentation for the site is organized into a couple sections:
    :maxdepth: 2
    :caption: User Documentation
 
-   getting_started.rst
-   tutorial.rst
-   theory.rst
+   usr_overview.rst
+   usr_tutorial.rst
+   usr_theory.rst
 
 .. _developer-doc:
 
@@ -41,9 +53,9 @@ The main documentation for the site is organized into a couple sections:
     :maxdepth: 2
     :caption: Developer Documentation
 
-    development.rst
-    autodoc.rst
-    api.rst
+    dev_overview.rst
+    dev_htmldoc.rst
+    dev_autoapi.rst
 
 
 Indices and tables

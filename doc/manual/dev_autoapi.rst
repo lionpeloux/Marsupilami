@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 *******************************
-API autodoc (WIP)
+API doxygen (WIP)
 *******************************
 
 Test handwritten doc (sphinxcontrib-dotnetdomain)

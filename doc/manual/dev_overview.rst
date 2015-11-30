@@ -3,13 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Development
-===========
-
-Marsupilami is a non linear solver for networks of beams, bars and cables.
-It is based on a dynamic relaxation algorithm.
-
-`reST <http://openalea.gforge.inria.fr/doc/openalea/doc/_build/html/source/sphinx/rest_syntax.html>`
+Overview
+==================
 
 Get Involved
 ------------

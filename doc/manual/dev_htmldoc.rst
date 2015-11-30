@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 *******************************
-Autodoc SetUp : WIP
+Html autodoc with sphinx (WIP)
 *******************************
 
 Introduction
@@ -51,6 +51,7 @@ Dans cet envrionnement virtuel, installer les packages requis::
   $ pip install breathe
   $ pip install sphinxcontrib-dotnetdomain
   $ pip install sphinx-autoapi
+  $ pip install recommonmark
 
 Vérifier les modules installés en appelant la commande::
 
