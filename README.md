@@ -19,5 +19,4 @@ The latest version of the doc sites here : http://marsupilami.readthedocs.org/en
 - applied displacement
 - fabric element
 
-push https 2
-test ssh with Desktop
+push https
