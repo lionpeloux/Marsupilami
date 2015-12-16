@@ -116,7 +116,7 @@ namespace Marsupilami.Kernel
         public Vector3d[] Xi
         {
             get { return _Xi; }
-            protected set { _Xi = value; }
+            set { _Xi = value; }
         }
 
         public double[] L0
@@ -206,6 +206,10 @@ namespace Marsupilami.Kernel
 
         // METHODES DATA =================================================
         public Vector3d[] X(ref Vector3d[][] Xt)
+        {
+            return Xt[Index];
+        }
+        public Vector3d[] X(Vector3d[][] Xt)
         {
             return Xt[Index];
         }

@@ -80,7 +80,7 @@ namespace Marsupilami.GHComponent
 
             Ec = new List<double>();
             dt = 1;
-            Eclim = 1e-16;
+            Eclim = 1e-20;
         }
         public override Guid ComponentGuid
         {

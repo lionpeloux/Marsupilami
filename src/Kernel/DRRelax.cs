@@ -104,7 +104,7 @@ namespace Marsupilami.Kernel
         public Vector3d[][] Xt
         {
             get { return _Xt; }
-            private set { _Xt = value; }
+            set { _Xt = value; }
         }
         public Vector3d[][] Vt
         {
@@ -382,7 +382,7 @@ namespace Marsupilami.Kernel
             List<string> info = new List<string>();
 
             info.Add("TOTAL : " + numIteration + " itérations en " + chrono.ElapsedMilliseconds + " ms");
-            info.Add(string.Format("COUT : {0:F2} ms/iteration", chrono.ElapsedMilliseconds / (double)numIteration));
+            info.Add(string.Format("COUT : {0:F2} micros/iteration", chrono.ElapsedMilliseconds * 1000 / (double)numIteration));
 
 
             if (iterationHistory.Count == 0)
