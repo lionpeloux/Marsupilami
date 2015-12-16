@@ -187,3 +187,5 @@ doc/manual/_doxygen/latex
 doc/manual/_doxygen/xml
 doc/manual/_doxygen
 doc/manual/_build
+
+*.db
