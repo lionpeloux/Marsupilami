@@ -7,7 +7,7 @@ namespace Marsupilami
     public class MarsupilamiInfo : GH_AssemblyInfo
     {
         //Fields
-        private static DateTime _date_expiration = new DateTime(2017, 10, 30);
+        private static DateTime _date_expiration = new DateTime(2016, 10, 30);
 
         //Properties
         public static DateTime ExpirationDate

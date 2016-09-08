@@ -61,10 +61,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GHComponent\GHComponent_SimpleBracedGrid.cs" />
     <Compile Include="GHComponent\GHComponent_SimpleCable.cs" />
     <Compile Include="GHComponent\GHComponent_2DGridSurfaceAttraction.cs" />
     <Compile Include="GHComponent\GHComponent_PatchGrid.cs" />
     <Compile Include="GHComponent\GHComponent_SimpleElastica.cs" />
+    <Compile Include="GHComponent\GHComponent_SimpleGrid.cs" />
     <Compile Include="Kernel\DRConstraint.cs" />
     <Compile Include="Kernel\DRElement.cs" />
     <Compile Include="Kernel\DRLoad.cs" />
