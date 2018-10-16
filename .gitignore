@@ -189,3 +189,5 @@ doc/manual/_doxygen
 doc/manual/_build
 
 *.db
+
+*.DS_Store
